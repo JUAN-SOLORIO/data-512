@@ -10,10 +10,11 @@ All the data collected by wikimedia can be accessed under free licenses via [fig
 
 ## Data Sources
 This notebook will be focusing its exploratory analysis on the [aggression]( https://docs.google.com/spreadsheets/d/1IlhmnoAdHNm906WrwYp2el9tlZFfnJkwrYXzbEMKGvM/edit#gid=0&range=E3) and [toxicity]( https://docs.google.com/spreadsheets/d/1IlhmnoAdHNm906WrwYp2el9tlZFfnJkwrYXzbEMKGvM/edit#gid=0&range=E2) datasets:
-•	Aggression : 100k labeled comments from English Wikipedia by approximately 10 annotators via Crowdflower on how aggressive the comment was perceived to be.
-•	Toxicity : 160k labeled comments from English Wikipedia by approximately 10 annotators via Crowdflower on a spectrum of how toxic the comment is (perceived as likely to make people want to leave the discussion) to how healthy to conversation the contribution is.
+- Aggression : 100k labeled comments from English Wikipedia by approximately 10 annotators via Crowdflower on how aggressive the comment was perceived to be.
+- Toxicity : 160k labeled comments from English Wikipedia by approximately 10 annotators via Crowdflower on a spectrum of how toxic the comment is (perceived as likely to make people want to leave the discussion) to how healthy to conversation the contribution is.
+
 Each of the datasets contains the following subsets:
-•	Annotated Comments: The comments put to revision from the corpus
-•	Annotations: The labels given to comment and the different workers who labeled them
-•	Demographics: Demographics of gender, age group, English as first language, and education for the workers
+- Annotated Comments: The comments put to revision from the corpus
+- Annotations: The labels given to comment and the different workers who labeled them
+- Demographics: Demographics of gender, age group, English as first language, and education for the workers
 
