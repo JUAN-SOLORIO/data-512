@@ -18,3 +18,16 @@ Each of the datasets contains the following subsets:
 - Annotations: The labels given to comment and the different workers who labeled them
 - Demographics: Demographics of gender, age group, English as first language, and education for the workers
 
+## Analysis Questions and Output
+### Questions:
+#### The primary focus in this notebook will be to answer the following about the datasets:
+**Analyze the demographic information about the Crowdflower workers that is available in the dataset**
+-	How evenly distributed are the gender and age demographics compared to the number of aggression comments reviewed?
+-	Same question, but for the Toxicity dataset?
+**Explore relationships between worker demographics and labeling behavior**
+-	Are workers with Bachelors, Master's and Doctorate degrees more likely to label an a comment as aggression or toxic, than those with a different education degree?
+-	Do we see an even distribution of rating for aggressive or toxic labels across age groups?
+
+### Output
+![alt text]( figures/Age_Distribution_labels_Percent_comments.png)
+
