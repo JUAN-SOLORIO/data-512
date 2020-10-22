@@ -30,4 +30,9 @@ Each of the datasets contains the following subsets:
 
 ### Output
 ![alt text]( figures/Age_Distribution_labels_Percent_comments.png)
+![alt text]( figures/Distribution_of_Aggression_Level_of_comments_by_Age_Group.png)
+![alt text]( figures/Distribution_of_Toxicity_Aggression_by_educational_group.png)
+![alt text](figures/Distribution_of_Toxicity_Level_of_comments_by_Age_Group.png)
+![alt text](figures/Gender_Distribution_labels_Percent_comments.png)
+![alt text](figures/Gender_Distribution_labels_Percent_workers.png)
 
