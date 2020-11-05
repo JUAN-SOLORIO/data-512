@@ -12,7 +12,7 @@ For this project I plan to explore the demographics of police officers involved 
 
 ## Data
 
-Primarily I will be using two datasets, one for (SPD Officer Involved Shooting)[ https://data.seattle.gov/Public-Safety/SPD-Officer-Involved-Shooting-OIS-Data/mg5r-efcm] and one for (Police Use of Force)[ https://data.seattle.gov/Public-Safety/Use-Of-Force/ppi5-g2bj]. 
+Primarily I will be using two datasets, one for [SPD Officer Involved Shooting]( https://data.seattle.gov/Public-Safety/SPD-Officer-Involved-Shooting-OIS-Data/mg5r-efcm) and one for [Police Use of Force]( https://data.seattle.gov/Public-Safety/Use-Of-Force/ppi5-g2bj). 
 Both of these datasets are available through the City of Seattle's [Open Data Program](https://data.seattle.gov/browse?category=Public+Safety&provenance=official&page=2).
 
 ## Licence
