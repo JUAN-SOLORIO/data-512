@@ -12,9 +12,9 @@ For this project I plan to explore the demographics of police officers involved 
 
 ## Data
 
-Primarily I will be using two datasets, one for [SPD Officer Involved Shooting]( https://data.seattle.gov/Public-Safety/SPD-Officer-Involved-Shooting-OIS-Data/mg5r-efcm) and one for [Police Use of Force]( https://data.seattle.gov/Public-Safety/Use-Of-Force/ppi5-g2bj). 
-Both of these datasets are available through the City of Seattle's [Open Data Program](https://data.seattle.gov/browse?category=Public+Safety&provenance=official&page=2).
+Primarily I will be using three datasets one for [SPD Officer Involved Shooting]( https://data.seattle.gov/Public-Safety/SPD-Officer-Involved-Shooting-OIS-Data/mg5r-efcm), one for [Police Use of Force]( https://data.seattle.gov/Public-Safety/Use-Of-Force/ppi5-g2bj), and one for [Seattle PD Officers respoding to Crisis Calls]( https://data.seattle.gov/Public-Safety/Crisis-Data/i2q9-thny). 
 
+These datasets contain demographic information on Police Officers involved in the offence as well as that of the civilian victim. The data also contains geographical and temporal information which could give better insights as to how these events are affected by location or time.
 ## Licence
 
 Plese refer to the project [MIT license](https://github.com/JUAN-SOLORIO/data-512/blob/main/data-512-final/MIT_LICENSE.txt) for more details.
