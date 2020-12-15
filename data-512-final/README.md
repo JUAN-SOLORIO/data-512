@@ -4,6 +4,16 @@
 
 Juan Solorio
 
+
+# Directory Structure
+``` bash
+data-512-final
+|
+|
+|--- Data
+
+```
+
 ## Proposal & Motivation
 
 Police violence and excess force or police brutality have always been a major area of concern for citizens especially among minority and underrepresented communities. In more recent times, over the last few months we’ve experience the social unrest and rightful outcry through the use of protests and marches from these communities to call out said brutality. 
