@@ -65,8 +65,8 @@ The project will focus to answer the following:
 
 * Effects of race can be seen in the demographics of police shootings
 <tr>
-<td> <img src="2-Figures/Officer_gender_demographics_percentage_shootings.png" alt="Drawing" style="width: 300px;"/> </td>
-<td> <img src="2-Figures/Officer_gender_demographics_percentage_shootings.png" alt="Drawing" style="width: 300px;"/> </td>
+<td> <img src="2-Figures/Officer_race_demographics_percentage_shootings.png" alt="Drawing" style="width: 300px;"/> </td>
+<td> <img src="2-Figures/Distribution_Subject_race_shot_by_white_officers.png" alt="Drawing" style="width: 300px;"/> </td>
 </tr>
 
 * West and East Precincts seem to have both highest numbers of Uses of Force incidents & propensity for more aggravated Force use
