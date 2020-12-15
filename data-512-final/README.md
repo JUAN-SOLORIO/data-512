@@ -61,6 +61,28 @@ The project will focus to answer the following:
 3. Is there a relation between the years of experience and their response to a crisis?
 
 
+## Key findings
+
+* Effects of race can be seen in the demographics of police shootings
+<tr>
+<td> <img src="2-Figures/Officer_gender_demographics_percentage_shootings.png" alt="Drawing" style="width: 300px;"/> </td>
+<td> <img src="2-Figures/Officer_gender_demographics_percentage_shootings.png" alt="Drawing" style="width: 300px;"/> </td>
+</tr>
+
+* West and East Precincts seem to have both highest numbers of Uses of Force incidents & propensity for more aggravated Force use
+<tr>
+<td> <img src="2-Figures/Use_of_force_by_precinct_sector.png" alt="Drawing" style="width: 300px;"/> </td>
+</tr>
+
+
+* Inconclusive results on how an officer’s years of experience affects how they respond in a crisis
+<tr>
+<td> <img src="2-Figures/Distribution_years_experience_use_of_force.png" alt="Drawing" style="width: 300px;"/> </td>
+</tr>
+
+
+
+
 ## Licence
 
 Plese refer to the project [MIT license](https://github.com/JUAN-SOLORIO/data-512/blob/main/data-512-final/LICENSE.txt) for more details.
