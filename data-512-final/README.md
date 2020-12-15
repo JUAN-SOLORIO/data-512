@@ -6,12 +6,22 @@ Juan Solorio
 
 
 # Directory Structure
-``` bash
-data-512-final
-|
-|
-|--- Data
-
+```bash
+├── data-512-final
+│   ├── .ipynb_checkpoints
+│   ├── 1-Data
+│   │   ├── data.Seattle.gov data for Police
+│   │   ├── 2010 Census and 2019 estimates for King county populations
+│   ├── 2-Figures
+│   │   ├── Charts for the different research questions
+│   │   ├── Images for Seattle police precincts
+│   ├── 3-Analysis
+│   │   ├── Initial Proposal.ipynb
+│   │   ├── Final Project Report.ipynb
+│   ├── LICENSE.txt
+│   ├── README.md
+│   └── README.md.save
+└── .gitignore
 ```
 
 ## Proposal & Motivation
@@ -19,8 +29,6 @@ data-512-final
 Police violence and excess force or police brutality have always been a major area of concern for citizens especially among minority and underrepresented communities. In more recent times, over the last few months we’ve experience the social unrest and rightful outcry through the use of protests and marches from these communities to call out said brutality. 
 For this project I plan to explore the demographics of police officers involved in shootings and use of force from the city of Seattle to gain a better understanding as to how might this have an effect on the type of response taken by said officers.
 
-
-## Data
 
 ## Data
 
@@ -55,4 +63,4 @@ The project will focus to answer the following:
 
 ## Licence
 
-Plese refer to the project [MIT license](https://github.com/JUAN-SOLORIO/data-512/blob/main/data-512-final/MIT_LICENSE.txt) for more details.
+Plese refer to the project [MIT license](https://github.com/JUAN-SOLORIO/data-512/blob/main/data-512-final/LICENSE.txt) for more details.
